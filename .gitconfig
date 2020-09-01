@@ -1,0 +1,4 @@
+[merge]
+	tool = vimdiff
+[mergetool vimdiff]
+	cmd = vimdiff3
