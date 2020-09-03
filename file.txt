@@ -1,1 +1,3 @@
 New line in file.txt
+
+This line added in test branch.
