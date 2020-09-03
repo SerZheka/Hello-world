@@ -1,1 +1,3 @@
 New line in file.txt
+
+This line is added in master branch.
